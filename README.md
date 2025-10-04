@@ -23,3 +23,10 @@ The target column (60) contains labels:
 R → Rock
 
 M → Mine
+
+🙌 Author
+
+Ashwani Yadav
+📧 ashwaniyadav172004@gmail.com
+
+💼 GitHub – ASHWANI9086
